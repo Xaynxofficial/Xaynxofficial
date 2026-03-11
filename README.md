@@ -19,5 +19,5 @@
 
 ### 🎨 Design & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ps,ai,github" />
+<img src="https://skillicons.dev/icons?i=ps,ai,github,gmail" />
 </p>
