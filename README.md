@@ -16,3 +16,8 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,gcp,supabase" />
 </p>
+
+### 🎨 Design & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ps" />
+</p>
