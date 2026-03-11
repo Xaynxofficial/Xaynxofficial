@@ -1,4 +1,4 @@
-### My Skills
+### Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
