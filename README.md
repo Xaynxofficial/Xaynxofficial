@@ -1,5 +1,4 @@
-Hello my name is Xaynx.
-
+# # 👋 I'm Xaynx
 
 ### 🌐 Languages & Technologies
 <p align="left">
