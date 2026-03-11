@@ -1,3 +1,6 @@
+Hello my name is Xaynx.
+
+
 ### 🌐 Languages & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
