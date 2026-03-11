@@ -1,7 +1,7 @@
 ### 🌐 Languages & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,java,py,lua,ai" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,java,py,lua,"/>
   </a>
 </p>
 
@@ -19,5 +19,5 @@
 
 ### 🎨 Design & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ps" />
+<img src="https://skillicons.dev/icons?i=ps,ai" />
 </p>
