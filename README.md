@@ -1,14 +1,14 @@
-# 👋 Hey, I'm Xaynx
+# I'm Xaynx
 
-### 🚀 Developer • Founder of XaynxAI
+### Developer | Founder of XaynxAI
 
 I build software, explore artificial intelligence, and develop next-generation technologies. My focus is on creating practical products that combine AI, automation, and modern software engineering.
 
-🌐 **Website:** [xaynxai.com](https://xaynxai.com)
+**Website:** [xaynxai.com](https://xaynxai.com)
 
 ---
 
-### 🌐 Languages & Technologies
+### Languages & Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ I build software, explore artificial intelligence, and develop next-generation t
   </a>
 </p>
 
-### 💻 Editors & Development Tools
+### Editors & Development Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ I build software, explore artificial intelligence, and develop next-generation t
   </a>
 </p>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@ I build software, explore artificial intelligence, and develop next-generation t
   </a>
 </p>
 
-### 🎨 Design & Creative Tools
+### Design Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -42,19 +42,17 @@ I build software, explore artificial intelligence, and develop next-generation t
 
 ---
 
-### 🧠 What I'm Working On
+### Current Focus
 
-- 🤖 **XaynxAI** — Building an AI platform for intelligent assistance, research, autonomous agents, and software development.
-- ⚙️ **Software Engineering** — Developing applications and exploring new technologies.
-- 🔬 **Innovation** — Experimenting with AI-powered systems and automation.
+- **XaynxAI:** Developing an AI platform for intelligent assistance, research, autonomous agents, and software development.
+- **Software Engineering:** Building applications and exploring modern technologies.
+- **Innovation:** Experimenting with AI-powered systems and automation.
 
 ---
 
-### 💡 My Philosophy
+### Philosophy
 
 > Build boldly. Learn continuously. Turn ideas into reality.
-
----
 
 <p align="center">
   <i>Driven by curiosity. Built for innovation.</i>
