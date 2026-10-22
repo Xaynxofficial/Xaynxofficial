@@ -24,9 +24,9 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 
 ### Current Focus
 
-- **XaynxAI** — AI assistants, autonomous agents, research, and software development.
-- **Xaynx** — Software development and technology projects.
-- **Zetaron** — Digital products and technology.
+- **XaynxAI** — An AI platform bringing together intelligent assistance, autonomous agents, research, and software development.
+- **Xaynx** — The official company website for my software projects, products, and technology initiatives.
+- **Zetaron** — Exploring artificial intelligence and AI-driven technologies.
 
 ---
 
