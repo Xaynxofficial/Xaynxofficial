@@ -4,7 +4,7 @@
 
 I build software and AI-powered systems, focusing on artificial intelligence, automation, and modern software engineering.
 
-**Websites:** [xaynx.com](https://xaynx.com) | [xaynxai.com](https://xaynxai.com)
+**Websites:** [xaynx.com](https://xaynx.com) | [xaynxai.com](https://xaynxai.com) | [zetaron.com](https://zetaron.com)
 
 ---
 
@@ -26,6 +26,7 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 
 - **XaynxAI** — AI assistants, autonomous agents, research, and software development.
 - **Xaynx** — Software development and technology projects.
+- **Zetaron** — Digital products and technology.
 
 ---
 
