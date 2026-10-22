@@ -31,5 +31,5 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 ---
 
 <p align="center">
-  <i>Driven by curiosity. Built for innovation.</i>
+  <i>We don't wait for the future. We shape it.</i>
 </p>
