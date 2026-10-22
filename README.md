@@ -17,7 +17,7 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 ### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,cloudflare&theme=dark" />
 </p>
 
 ---
