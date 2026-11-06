@@ -11,7 +11,7 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 ### Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,java,py,cpp,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,py,cpp,mysql&theme=dark" />
 </p>
 
 ### Development Tools
