@@ -18,7 +18,11 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,cloudflare,blender&theme=dark" />
-  <img src="https://cdn.simpleicons.org/freecad/FFFFFF" height="48" />
+  <img
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/freecad/default.svg"
+  height="48"
+  style="background:#212529; padding:8px; border-radius:12px;"
+/>
 </p>
 
 ---
