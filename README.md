@@ -25,6 +25,12 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 />
 </p>
 
+### Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+</p>
+
 ---
 
 ### Current Focus
