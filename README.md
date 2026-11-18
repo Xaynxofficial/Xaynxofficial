@@ -28,7 +28,7 @@ I build software and AI-powered systems, focusing on artificial intelligence, au
 ### Operating Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple&theme=dark" />
 </p>
 
 ---
