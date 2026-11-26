@@ -4,7 +4,7 @@
 
 I build software and AI-powered systems, focusing on artificial intelligence, automation, and modern software engineering.
 
-**Websites:** [xaynx.com](https://xaynx.com) | [xaynxai.com](https://xaynxai.com) | [zetaron.com](https://zetaron.com)
+**Websites:** [xaynx.com](https://xaynx.com) | [xaynxai.com](https://xaynxai.com) | [zetaron.com](https://zetaron.com) | [netlin.app](https://netlin.app)
 
 ---
 
